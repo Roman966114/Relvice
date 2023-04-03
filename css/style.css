@@ -539,7 +539,7 @@ body{
     position: relative;
     padding: 0 0 42.25% 0;
 }
-.whoweare__video iframe{     /* адаптив видео */
+.whoweare__video img{     /* адаптив видео */
     position: absolute;
     width: 100%;
     height: 100%;
